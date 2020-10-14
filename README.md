@@ -1,6 +1,12 @@
-# simple_notification_flutter
+# simple_local_notification
 
-A new Flutter project.
+A Simple Local Notification Flutter.
+
+<p>
+<img src="assets/images/1.jpg" width="180" alt="Home"/>
+<img src="assets/images/2.jpg" width="180" alt="Display Notification"/>
+<img src="assets/images/3.jpg" width="180" alt="Click Notification"/>
+</p>
 
 ## Getting Started
 
